@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 28. 10. 2023
+  Major Features:
+    - Release to mod portal.
+  Locale:
+    - Added locale for: af, ar, be, bg, ca, cs,  da, de, el, en, eo, es-ES, et, eu, fi, fil, fr,
+      fy-NL, ga-IE, hu, id, it, jp, ka, kk, ko, lv, ms, nl, pl, pt-BR, pt-PT, ro, sk, sl, sv, th, tr,
+      uk, vi, zh-CN, zh-TW.(google-translate)
