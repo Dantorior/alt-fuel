@@ -12,7 +12,7 @@ data:extend{
 		fuel_top_speed_multiplier = 1.30,
 		fuel_emissions_multiplier = 1,
 		fuel_glow_color = {r = 0, g = 0.5, b = 0, a = 0.5},
-		subgroup = "intermediate-product",
+		subgroup = "fuel",
 		order = "pz[rocket-fuel]",
 		stack_size = 200
 	}
