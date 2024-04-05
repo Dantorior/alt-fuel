@@ -1,3 +1,9 @@
+data.raw.item["alt-rocket-fuel"].fuel_value = settings.startup["fuel_value_mod"].value .. "GJ"
+data.raw.item["alt-rocket-fuel"].stack_size = settings.startup["fuel_stack"].value
+data.raw.item["alt-rocket-fuel"].fuel_acceleration_multiplier = settings.startup["fuel_acceleration_multiplier"].value
+data.raw.item["alt-rocket-fuel"].fuel_top_speed_multiplier = settings.startup["fuel_top_speed_multiplier"].value
+data.raw.item["alt-rocket-fuel"].fuel_emissions_multiplier = settings.startup["fuel_emissions_multiplier"].value
+
 if mods["space-exploration"] then
 	data.raw.recipe["alt-rocket-fuel"].category = "fuel-refining"
 	data.raw.recipe["alt-rocket-fuel"].subgroup = "fuel"

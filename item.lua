@@ -1,3 +1,4 @@
+-- Define new item
 data:extend{
 	{	
 		type = "item",
@@ -9,11 +10,11 @@ data:extend{
 		fuel_category = "chemical",
 		fuel_value = "0.25GJ",
 		fuel_acceleration_multiplier = 2,
-		fuel_top_speed_multiplier = 1.30,
+		fuel_top_speed_multiplier = 1.3,
 		fuel_emissions_multiplier = 1,
 		fuel_glow_color = {r = 0, g = 0.5, b = 0, a = 0.5},
 		subgroup = "fuel",
 		order = "pz[rocket-fuel]",
-		stack_size = 200
+		stack_size = 50
 	}
 }
